@@ -116,6 +116,16 @@ $ sudo python project-memoria-detector.py 192.168.6.42
 
 The degree of certainty of a particular fingerprint can be `High`, `Medium`, or `Low`. `No match` means that there was no match with any known fingerprints, and `No reply` means that a specific port/service is unavailable.
 
+## Exploit
+To exploit, execute:
+```bash:
+py IPv4 Datagram Generatorr.py 
+```
+Or:
+```bash:
+Use blacknurse :)
+```
+
 ## License
 
 Copyright (C) 2020 Forescout Technologies, Inc.
